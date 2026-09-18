@@ -1,0 +1,87 @@
+Estrato C. Fijo ($) 0 - 16 m3  ($/m3) Estrato C. Fijo ($) 0 - 16 m3  ($/m3)
+Estrato 1 3,147.67 881.57 2,754.90 Estrato 1 1,688.28 1,013.14 3,166.05
+Estrato 2 6,787.17 1,900.88 2,754.90 Estrato 2 3,640.35 2,184.57 3,166.05
+Estrato 3 9,738.12 2,727.36 2,754.90 Estrato 3 5,170.36 3,102.73 3,166.05
+Estrato C. Fijo ($) Consumo m3  ($/m3) Estrato C. Fijo ($) Vertimiento ($/m3)
+Estrato 4 9,836.48 2,754.90 E1: 68.00% Estrato 4 5,275.87 3,166.05 E1: 68.00%
+Estrato 5 14,853.08 4,159.91 E2: 31.00% Estrato 5 7,966.57 4,780.73 E2: 31.00%
+Estrato 6 15,836.73 4,435.40 E3: 1.00% Estrato 6 8,494.15 5,097.34 E3: 2.00%
+Comercial 14,951.44 4,187.45 Comercial 8,019.33 4,812.39
+lndustrial 12,984.14 3,636.47 E5: 51.00% lndustrial 6,964.15 4,179.18 E5: 51.00%
+Oficial y Especial 9,836.48 2,754.90 E6: 61.00% Oficial y Especial 5,275.87 3,166.05 E6: 61.00%
+Temporal 15,836.73 4,435.40 Com: 52.00% Temporal 8,494.15 5,097.34 Com: 52.00%
+ Ind: 32.00% Ind: 32.00%
+ 
+Porcentajes de subsidios y aportes solidarios definidos mediante Acuerdo No. 0553 de 2022 del Concejo Municipal de Santiago de Cali
+Estrato C. Fijo ($) 0 - 16 m3  ($/m3) Estrato C. Fijo ($) 0 - 16 m3  ($/m3)
+Estrato 1 2,950.94 826.47 2,754.90 Estrato 1 1,582.75 949.81 3,166.05
+Estrato 2 5,901.89 1,652.94 2,754.90 Estrato 2 3,165.52 1,899.62 3,166.05
+Estrato 3 8,361.01 2,341.67 2,754.90 Estrato 3 4,484.48 2,691.14 3,166.05
+Estrato C. Fijo ($) Consumo m3  ($/m3) Estrato C. Fijo ($) Vertimiento ($/m3)
+Estrato 4 9,836.48 2,754.90 E1: 70.00% Estrato 4 5,275.87 3,166.05 E1: 70.00%
+Estrato 5 14,754.72 4,132.36 E2: 40.00% Estrato 5 7,913.80 4,749.06 E2: 40.00%
+Estrato 6 15,738.37 4,407.85 E3: 15.00% Estrato 6 8,441.39 5,065.67 E3: 15.00%
+Comercial 14,754.72 4,132.36 Comercial 7,913.80 4,749.06
+lndustrial 12,787.42 3,581.38 E5: 50.00% lndustrial 6,858.62 4,115.86 E5: 50.00%
+Oficial y Especial 9,836.48 2,754.90 E6: 60.00% Oficial y Especial 5,275.87 3,166.05 E6: 60.00%
+Temporal 15,738.37 4,407.85 Com: 50.00% Temporal 8,441.39 5,065.67 Com: 50.00%
+ Ind: 30.00% Ind: 30.00%
+  
+Estrato C. Fijo ($) 0 - 16 m3  ($/m3) Estrato C. Fijo ($) 0 - 16 m3  ($/m3)
+Estrato 1 4,918.24 1,377.45 2,754.90 Estrato 1 9,836.48 1,735.59 2,754.90
+Estrato 2 9,246.29 2,589.61 2,754.90 Estrato 2 9,836.48 2,093.73 2,754.90
+Estrato 3 9,836.48 2,754.90 2,754.90 Estrato 3 9,836.48 2,369.22 2,754.90
+Estrato C. Fijo ($) Consumo m3  ($/m3) Estrato C. Fijo ($) Consumo m3  ($/m3)
+Estrato 4 9,836.48 2,754.90 E1: 50.00% Estrato 4 9,836.48 2,754.90 E1: 37.00%
+Estrato 5 14,754.72 4,132.36 E2: 6.00% Estrato 5 14,754.72 4,132.36 E2: 24.00%
+Estrato 6 15,738.37 4,407.85 E3: 0.00% Estrato 6 15,738.37 4,407.85 E3: 14.00%
+Comercial 14,754.72 4,132.36 Comercial 14,754.72 4,132.36
+lndustrial 12,787.42 3,581.38 E5: 50.00% lndustrial 12,787.42 3,581.38 E5: 50.00%
+Oficial y Especial 9,836.48 2,754.90 E6: 60.00% Oficial y Especial 9,836.48 2,754.90 E6: 60.00%
+Temporal 15,738.37 4,407.85 Com: 50.00% Temporal 15,738.37 4,407.85 Com: 50.00%
+Porcentajes de subsidios y aportes solidarios Ind: 30.00% Porcentajes de subsidios y aportes solidarios definidos Ind: 30.00%
+definidos mediante Acuerdo No. 063 de 2022 del  mediante Acuerdo No. 021 de 2022 del Concejo Municipal
+Concejo Municipal de Palmira de Candelaria, aplica solo al consumo básico
+Notas
+1. 
+2.
+3.
+4.
+ 
+La última actualizacion tarifaria fue en el mes de octubre  de 2022, con IPC de octubre a diciembre  de 2022 y enero de 2023.
+El Costo Medio Unitario de Tasa Retributiva para el Servicio público domicilario de Alcantarillado es: $47.36 incluida dentro del Costo de Vertimiento
+ACUEDUCTO
+MUNICIPIO DE YUMBO
+Las tarifas se actualizarán por efectos de la inflación cada vez que se acumule un 3% o mas en el IPC Nacional de acuerdo al Articulo 125 de la Ley 142 de 1994.
+El Costo Medio Unitario de Tasa de Uso para el servicio público domiciliario de acueducto es: $3.17 incluida dentro del Costo del Consumo
+> 16 m3 ($/m3)
+EMPRESAS MUNICIPALES DE CALI  EMCALI  E.I.C.E  ESP.
+GERENCIA UNIDAD ESTRATÉGICA DE NEGOCIOS DE ACUEDUCTO Y ALCANTARILLADO
+VIGILADA POR LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS NUIR 4-76001000-4
+ACUEDUCTO
+Aportes Solid.
+ACUEDUCTO ALCANTARILLADO
+En cumplimiento de la Resolución CRA-943 de 2021, Libro 1, Parte 8, Regimen Tarifario, Titulo 6, Articulo 1.8.6.4
+Subsidios
+Porcentajes de subsdios y aportes solidarios definidos mediante Acuerdo No.027 de 2020 del  Concejo Municipal de Yumbo
+Aportes Solid.
+> 16 m3 ($/m3)
+Subsidios
+Subsidios
+Aportes Solid.
+> 16 m3 ($/m3)
+TARIFAS  A PARTIR DE LOS CONSUMOS DEL 15 DE FEBRERO DE 2023
+MUNICIPIO DE CALI
+> 16 m3 ($/m3)
+MUNICIPIO DE PALMIRA MUNICIPIO DE CANDELARIA
+ 
+Subsidios
+Aportes Solid.
+Aportes Solid.
+> 16 m3 ($/m3)
+Subsidios
+> 16 m3 ($/m3)
+Subsidios
+ALCANTARILLADO
+Aportes Solid.
+ACUEDUCTO
